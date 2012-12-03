@@ -25,7 +25,8 @@
 	onCapture:  function () {},
 	onTick:	    function () {},
 	onSave:	    function () {},
-	onLoad:	    function () {}
+	onLoad:	    function () {},
+	onStart:    function () {}
     };
 
     window.webcam = webcam;
